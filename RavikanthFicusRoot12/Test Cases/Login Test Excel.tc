@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Test Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6c8bc61-0fcc-4bf3-9ac2-047bb845a81c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b28e11bb-c303-497d-895c-dc24eff446cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c6c88f1-3f31-4a89-9d64-2ffe0653b0ca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b28e11bb-c303-497d-895c-dc24eff446cd</id>
+      <masked>false</masked>
+      <name>usernamep</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c6c88f1-3f31-4a89-9d64-2ffe0653b0ca</id>
+      <masked>false</masked>
+      <name>passwordd</name>
+   </variable>
+</TestCaseEntity>
